@@ -1,4 +1,4 @@
-package FactoryDesignPattern;
+package factoryDesignPattern;
 
 public class WebDeveloper implements Employee{
     @Override

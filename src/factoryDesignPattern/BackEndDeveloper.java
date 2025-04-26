@@ -1,7 +1,4 @@
-package FactoryDesignPattern;
-
-import javax.lang.model.element.VariableElement;
-import java.awt.*;
+package factoryDesignPattern;
 
 public class BackEndDeveloper implements Employee{
 

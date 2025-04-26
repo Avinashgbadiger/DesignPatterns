@@ -1,5 +1,3 @@
-import FactoryDesignPattern.EmpFactory;
-import FactoryDesignPattern.Employee;
 import singleton.*;
 
 import java.lang.reflect.Constructor;
@@ -36,6 +34,10 @@ public class Main {
         Samosa samosa2 = (Samosa) declaredConstructors[0].newInstance();
         System.out.println("New Object : "+samosa2);
 
+
+        /*
+         * Factory Design Pattern
+         */
 
 //        Employee employee= EmpFactory.getEmp("BackEnd");
 //        int sal=employee.salary();

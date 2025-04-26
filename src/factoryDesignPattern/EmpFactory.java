@@ -1,4 +1,4 @@
-package FactoryDesignPattern;
+package factoryDesignPattern;
 
 public class EmpFactory {
 
